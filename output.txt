@@ -1,0 +1,9 @@
+10	Nguyen Son	BKCorporation	President	2003-07-21	Ha Noi	nguyentrungson217@gmail.com	090348834	2023-02-20	
+1	Nguyen Son	BKCorporation	Vice President	2003-07-21	Ha Noi	nguyentrungson217@gmail.com	090348834	2023-02-20	
+2	Nguyen Anh	BKCorporation->BKEntertainment	Director	2000-11-10	Ha Tay	brocode@gmail.com	0903486634	2023-09-09	
+9	Nguyen Anh	BKCorporation->BKEntertainment	Vice Director	2000-11-10	Ha Tay	brocode@gmail.com	0903486634	2023-09-09	
+4	Tran Duy	BKCorporation->BKEntertainment->ITDepartment	Manager	2000-08-20	An Duong	duytran@gmail.com	0903486634	2024-02-29	
+5	Tran Duy	BKCorporation->BKEntertainment->ITDepartment	Deputy Manager	2000-08-20	An Duong	duytran@gmail.com	0903486634	2024-02-29	
+6	Tran Duy	BKCorporation->BKEntertainment->ITDepartment	Employee	2000-08-20	An Duong	duytran@gmail.com	0903486634	2024-02-29	
+7	Tran Duy	BKCorporation->BKEntertainment->ITDepartment	Employee	2000-08-20	An Duong	duytran@gmail.com	0903486634	2024-02-29	
+8	Tran Duy	BKCorporation->BKEntertainment->ITDepartment	Employee	2000-08-20	An Duong	duytran@gmail.com	0903486634	2024-02-29	

@@ -1,0 +1,28 @@
+001; Nguyen Trung Son; BKCorporation; President; 21/07/2003; Ha Noi; nguyentrungson217@gmail.com; 090348834; 20/02/2023; 
+002; Nguyen Hoang Tuan Anh; Vice President BKCorporation->BKEntertainment; Director; 10/11/2000; Ha Tay; brocode@gmail.com; 0903486634; ; 
+003; Tran Khach Duy; BKCorporation; Vice President->BKEntertainment->ITDepartment; Manager; 20/08/2000; An Duong; duytran@gmail.com; 0903486634; ; 
+
+//Director
+004; Nguyễn Huy Hoàng; BKCorporation->BKFood; Director; 19/06/2003; Bac Ninh; nguyenhuyhoang112@gmail.com; 0559 806 527; 07/06/2023;  
+005; Trần Nghiêm Minh; BKCorporation->BKTech; Director; 18/07/2002 Ha Noi; Kimmtery@gmail.com; 0559 078 540; 08/12/2022; 
+006; Nguyễn Việt Thái; BKCorporation->BKEntertainment; Director 24/05/2001; CornyBorg@gmail.com; 0559 827 264; 03/05/2023; 
+
+//Vice Director
+007; Huỳnh Huy Lâm; BKCorporation->BKEntertainment; Vice Director; 08/02/2003; Lang Son; WillowBal@gmail.com; 0364 505 310; 11/07/2022; ; 
+008; Võ Trí Hữu; BKCorporation->BKEntertainment; Vice Director; 03/10/2004; Ha Noi; BirdGrundy@gmail.com; 0897 128 882; 01/06/2023; ; 
+009; Nguyễn Hiếu Phong; BKCorporation->BKFood; Vice Director; 11/01/2002; TP Ho Chi Minh; Somberia@gmail.com; 0699 552 50 29; 07/07/2023; ;
+010; Giang Lương Tài; BKCorporation->BKFood; Vice Director; 07/08/2003; Hai Phong; Parate@gmail.com; 099 552 50 29; 09/02/2022; ; 
+011; Nguyễn Công Vinh; BKCorporation->BKFood; Vice Director; 06/27/2005; Hai Duong; RpgNeat@gmail.com; 0522 410 206; 01/03/2023; ; 
+
+//Vice Manager
+012; Trương Minh Khang; BKCorporation->BKFood; 03/22/2004; Ha Noi; Abouturia@gmail.com; 0393 216 138; 09/05/2022; 
+013; Diệp Gia Phúc; BKCorporation->BKFood; 12/12/2003; Ha Noi; Gingergyna@gmail.com; 099 171 80 03; 10/02/2022; 
+014; Đỗ Thanh Uyên; BKCorporation->BKFood; 09/07/2003; Hai Duong; Catfishin@gmail.com; 099 084 63 19; 03/08/2023; 
+
+//Manager
+015; Trần Phương Giang; BKCorporation->BKTech; 02/24/2004; Ha Noi; Blondierian@gmail.com; 099 084 63 19; 12/03/2022; 
+016; Hàn Thiên Lan; BKCorporation->BKTech; 04/12/2005; Ha Noi; ByteSpunky@gmail.com; 0707 656 839; 10/02/2022; 
+017; Hoàng Hạnh Trang; BKCorporation->BKTech; 05/30/2004; TP Ho Chi Minh; Amousepa@gmail.com; 099 194 09 00; 05/05/2023; 
+018; Lý Việt Hà; BKCorporation->BKTech; 11/28/2002; Hai Duong; TargetVivid@gmail.com; 099 194 09 00; 07/11/2023;  
+019; Ngô Thanh Nguyên; BKCorporation->BKTech; 05/08/2005; Ha Noi; Cornyan@gmail.com; 099 940 06 89; 08/05/2022; 
+020; Phí Thu Thủy; BKCorporation->BKTech; 08/07/2003; TP Ho Chi Minh; TheArticle@gmail.com; 0373 364 367; 10/08/2022; 

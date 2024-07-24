@@ -1,0 +1,345 @@
+<mxfile host="65bd71144e">
+    <diagram id="1DMYICo8KGHOrADgSlbF" name="Page-1">
+        <mxGraphModel dx="2811" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="14" value="" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="90" width="20" height="14" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="10" width="2330" height="1390" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;BKCorporation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="1025" y="30" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="29" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="855" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;President&lt;/span&gt;" style="html=1;fontSize=36;" parent="1" vertex="1">
+                    <mxGeometry x="1060" y="80" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Vice President" style="html=1;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="890" y="190" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Vice President" style="html=1;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="1240" y="190" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="29" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="816.1643835616437" y="159.9999999999999" as="sourcePoint"/>
+                        <mxPoint x="710" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="150" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="38" vertex="1" connectable="0">
+                    <mxGeometry x="0.3386" y="5" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="BKEntertainment" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="77.5" y="430" width="650" height="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="BKEntertainment" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="40" vertex="1">
+                    <mxGeometry width="650" height="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="Vice Director" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="75" vertex="1">
+                    <mxGeometry x="432.5" y="150" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Director&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="75" vertex="1">
+                    <mxGeometry x="255" y="60" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="75" source="45" target="76" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="282.5" y="120" as="sourcePoint"/>
+                        <mxPoint x="340" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="149" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="49" vertex="1" connectable="0">
+                    <mxGeometry x="-0.1472" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="Vice Director" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="75" vertex="1">
+                    <mxGeometry x="52.5" y="150" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="75" source="45" target="46" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="767.5" y="-270" as="sourcePoint"/>
+                        <mxPoint x="632.5" y="-220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="Marketing Department" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="75" vertex="1">
+                    <mxGeometry x="10" y="340" width="310" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Deputy Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="80" vertex="1">
+                    <mxGeometry x="62.5" y="200" width="210" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="80" vertex="1">
+                    <mxGeometry x="180" y="310" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="80" source="86" target="91" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="167.5" y="100" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="...." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="92" vertex="1" connectable="0">
+                    <mxGeometry x="0.282" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="124" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="80" vertex="1">
+                    <mxGeometry x="82.5" y="40" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="" style="edgeStyle=none;html=1;fontSize=24;" parent="80" source="124" target="86" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="1..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="130" vertex="1" connectable="0">
+                    <mxGeometry x="0.3368" y="4" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="Accounting Department" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="75" vertex="1">
+                    <mxGeometry x="332.5" y="340" width="310" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="81" vertex="1">
+                    <mxGeometry x="10" y="310" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="81" vertex="1">
+                    <mxGeometry x="82.5" y="40" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="BKTech" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="1570" y="420" width="710" height="730" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Director&lt;/span&gt;" style="html=1;fontSize=36;" parent="42" vertex="1">
+                    <mxGeometry x="250" y="40" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Vice Manager" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="42" vertex="1">
+                    <mxGeometry x="70" y="150" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="42" source="52" target="56" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-295" y="106" as="sourcePoint"/>
+                        <mxPoint x="-430" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="Vice Manager" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="42" vertex="1">
+                    <mxGeometry x="440" y="150" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="42" source="52" target="57" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-795" y="86" as="sourcePoint"/>
+                        <mxPoint x="-930" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="147" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="61" vertex="1" connectable="0">
+                    <mxGeometry x="0.1882" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="Marketing Department" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="42" vertex="1">
+                    <mxGeometry x="30" y="340" width="310" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Deputy Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="85" vertex="1">
+                    <mxGeometry x="70" y="220" width="180" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="" style="edgeStyle=none;html=1;fontSize=24;" parent="85" source="128" target="112" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" value="1..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="135" vertex="1" connectable="0">
+                    <mxGeometry x="0.2226" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="128" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="85" vertex="1">
+                    <mxGeometry x="75" y="50" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="IT Department" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="42" vertex="1">
+                    <mxGeometry x="360" y="340" width="310" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Deputy Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="84" vertex="1">
+                    <mxGeometry x="70" y="220" width="180" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="BKFood" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
+                    <mxGeometry x="790" y="420" width="730" height="730" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Director&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="43" vertex="1">
+                    <mxGeometry x="280" y="50" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Vice Director" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="43" vertex="1">
+                    <mxGeometry x="90" y="140" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Vice Manager" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="43" vertex="1">
+                    <mxGeometry x="470" y="140" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="43" source="51" target="53" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-267.5" y="96" as="sourcePoint"/>
+                        <mxPoint x="-370" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="60" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="43" source="51" target="54" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="270" y="120" as="sourcePoint"/>
+                        <mxPoint x="120" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="148" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="60" vertex="1" connectable="0">
+                    <mxGeometry x="0.1631" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="Marketing Department" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="43" vertex="1">
+                    <mxGeometry x="25" y="350" width="310" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="83" vertex="1">
+                    <mxGeometry x="5" y="310" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="83" vertex="1">
+                    <mxGeometry x="175" y="310" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Deputy Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="83" vertex="1">
+                    <mxGeometry x="75" y="200" width="185" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="" style="edgeStyle=none;html=1;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="83" source="99" target="104" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="143" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="105" vertex="1" connectable="0">
+                    <mxGeometry x="0.2452" y="3" relative="1" as="geometry">
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="106" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="83" source="99" target="102" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="" style="edgeStyle=none;html=1;fontSize=24;" parent="83" source="125" target="99" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="139" value="1..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="132" vertex="1" connectable="0">
+                    <mxGeometry x="0.2632" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="125" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="83" vertex="1">
+                    <mxGeometry x="82.5" y="40" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="Quality Control Department" style="swimlane;whiteSpace=wrap;html=1;fontSize=24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="43" vertex="1">
+                    <mxGeometry x="360" y="350" width="350" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Deputy Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="82" vertex="1">
+                    <mxGeometry x="90" y="210" width="180" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="" style="edgeStyle=none;html=1;fontSize=24;" parent="82" source="127" target="107" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="1..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="134" vertex="1" connectable="0">
+                    <mxGeometry x="0.1935" y="-4" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="127" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="82" vertex="1">
+                    <mxGeometry x="95" y="40" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="1080" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="edgeStyle=none;html=1;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="86" target="87" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="900" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="97" value="" style="edgeStyle=none;html=1;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="93" target="95" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="97" vertex="1" connectable="0">
+                    <mxGeometry x="0.3104" y="2" relative="1" as="geometry">
+                        <mxPoint x="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="98" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="93" target="94" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Deputy Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="482.5" y="970" width="190" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="1080" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="" style="edgeStyle=none;html=1;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="107" target="109" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="110" vertex="1" connectable="0">
+                    <mxGeometry x="0.2943" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="111" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="107" target="108" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="1160" y="1080" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="1360" y="1080" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="" style="edgeStyle=none;html=1;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="112" target="114" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="112" target="113" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="116" vertex="1" connectable="0">
+                    <mxGeometry x="0.4061" y="-3" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="113" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="1770" y="1070" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="1610" y="1070" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="1940" y="1070" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="Employee" style="html=1;fontSize=24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="2110" y="1070" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="" style="edgeStyle=none;html=1;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="117" target="120" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="121" vertex="1" connectable="0">
+                    <mxGeometry x="0.4458" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="122" value="" style="edgeStyle=none;html=1;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="117" target="118" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="" style="edgeStyle=none;html=1;fontSize=24;" parent="1" source="126" target="93" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="1..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="131" vertex="1" connectable="0">
+                    <mxGeometry x="0.4062" y="3" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="136" value="" style="edgeStyle=none;html=1;fontSize=24;" parent="1" source="129" target="117" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="142" value="1..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="136" vertex="1" connectable="0">
+                    <mxGeometry x="0.2516" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="129" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Manager&lt;/span&gt;" style="html=1;fontSize=36;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="2005" y="810" width="170" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="151" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.529;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="29" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

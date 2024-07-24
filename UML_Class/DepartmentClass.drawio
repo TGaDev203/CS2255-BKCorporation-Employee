@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="4eHu-LruB-I9o6e-LUoq" name="Page-1">
+        <mxGraphModel dx="984" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" value="Company" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+                    <mxGeometry x="106.25" y="368" width="437.5" height="182" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="- name: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12" vertex="1">
+                    <mxGeometry y="26" width="437.5" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="- members_num: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12" vertex="1">
+                    <mxGeometry y="52" width="437.5" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="- director: Director" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12" vertex="1">
+                    <mxGeometry y="78" width="437.5" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="- vice_director: ViceDirector" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12" vertex="1">
+                    <mxGeometry y="104" width="437.5" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="- department_list: Queue&lt;Department&gt; (HashMap&lt;Department&gt;)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12" vertex="1">
+                    <mxGeometry y="130" width="437.5" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="+ friend ostream&amp; operator&lt;&lt;(ostream&amp; os, const Human&amp; human):  ostream" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="12" vertex="1">
+                    <mxGeometry y="156" width="437.5" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Department" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="590" width="430" height="182" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="- name: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="16" vertex="1">
+                    <mxGeometry y="26" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="- member_nums: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="16" vertex="1">
+                    <mxGeometry y="52" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="- manager: Manager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="16" vertex="1">
+                    <mxGeometry y="78" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="- deputy_manager: DeputyManager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="16" vertex="1">
+                    <mxGeometry y="104" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="- employees_list: HashMap&lt;Employee&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="16" vertex="1">
+                    <mxGeometry y="130" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="+ friend ostream&amp; operator&lt;&lt;(ostream&amp; os, const Human&amp; human):  ostream" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="16" vertex="1">
+                    <mxGeometry y="156" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Corporations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="150" width="430" height="182" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="- name: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21" vertex="1">
+                    <mxGeometry y="26" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="-  members_num: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21" vertex="1">
+                    <mxGeometry y="52" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="- president: President" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21" vertex="1">
+                    <mxGeometry y="78" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="- vice_president: VicePresident" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21" vertex="1">
+                    <mxGeometry y="104" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="- company_list: Queue&lt;Company&gt; (HashMap&lt;Company&gt;)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21" vertex="1">
+                    <mxGeometry y="130" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="+ friend ostream&amp; operator&lt;&lt;(ostream&amp; os, const Human&amp; human):  ostream" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="21" vertex="1">
+                    <mxGeometry y="156" width="430" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="170" width="60" height="510" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,9 @@
+001; Nguyen Trung Son; BKCorporation; Vice President; 21/07/2003; Ha Noi; nguyentrungson217@gmail.com; 090348834; 20/02/2023; 
+010; Nguyen Trung Son; BKCorporation; President; 21/07/2003; Ha Noi; nguyentrungson217@gmail.com; 090348834; 20/02/2023; 
+002; Nguyen Hoang Tuan Anh; BKCorporation->BKEntertainment; Director; 10/11/2000; Ha Tay; brocode@gmail.com; 0903486634; 09/09/2023; 
+009; Nguyen Hoang Tuan Anh; BKCorporation->BKEntertainment; Vice Director; 10/11/2000; Ha Tay; brocode@gmail.com; 0903486634; 09/09/2023; 
+004; Tran Khach Duy; BKCorporation->BKEntertainment->ITDepartment; Manager; 20/08/2000; An Duong; duytran@gmail.com; 0903486634; 29/02/2024;  
+005; Tran Khach Duy; BKCorporation->BKEntertainment->AIDepartment; Deputy Manager; 20/08/2000; An Duong; duytran@gmail.com; 0903486634; 29/02/2024;  
+006; Tran Khach Duy; BKCorporation->BKEntertainment->SportDepartment; Employee; 20/08/2000; An Duong; duytran@gmail.com; 0903486634; 29/02/2024; 
+007; Tran Khach Duy; BKCorporation->BKEducation->SOICT; Employee; 20/08/2000; An Duong; duytran@gmail.com; 0903486634; 29/02/2024;  
+008; Tran Khach Duy; BKCorporation->BKEducation->Troy; Employee; 20/08/2000; An Duong; duytran@gmail.com; 0903486634; 29/02/2024;  
