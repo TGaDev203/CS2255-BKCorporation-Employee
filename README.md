@@ -121,5 +121,3 @@ This project is a first-time effort to develop a command-line interface (CLI) ap
 2. Validation Functions: Implemented functions to validate employee data and ensure data integrity.
 3. Main Logic: Developed the main application logic to handle user interactions and execute core functionalities.
 4. Testing: Conducted basic testing to ensure the functionality and reliability of the system.
-
----
